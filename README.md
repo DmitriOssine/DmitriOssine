@@ -1,5 +1,4 @@
 ### Hi there 👋
-### Osin_QA
 Осин Дмитрий Сергеевич
 ---
 [Пример моих тест кейсов](https://docs.google.com/spreadsheets/d/19gSZCUl258E1xjEtjSMk7b6CTt2w5reOVr_zJwQ4DgE/edit?usp=sharing)
