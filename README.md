@@ -1,7 +1,7 @@
 ### Hi there 👋
 Осин Дмитрий Сергеевич
 ---
-[Пример моих тест кейсов]([https://docs.google.com/spreadsheets/d/1flOKfDqOplEA6TiEZlHbhcisgPBX9fhIuck5-zj74YE/edit?usp=sharing))
+[Пример моих тест кейсов]([https://docs.google.com/spreadsheets/d/1flOKfDqOplEA6TiEZlHbhcisgPBX9fhIuck5-zj74YE/edit?usp=sharing])
 ---
 [Пример моего тестового задания](https://docs.google.com/spreadsheets/d/18GUZAPTPBdTK8oJEmZmjk4bt5Sa5eqzKsbc1SpFvJc4/edit?usp=sharing)
 ---
